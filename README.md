@@ -11,10 +11,10 @@
 * 💻 Used to be an OIer, basically a **CTFer** now.
 * 🌟 Personal Website: https://spaceskynet.top/
 * 🎶 Like listening to **music** and playing the rhythm game —— <img src="https://osu.ppy.sh/favicon-32x32.png" height="20" width="20" align=center />  [**osu!**](https://osu.ppy.sh/users/19543134), welcome **pink** friends~
-* 🎮 Puzzla Games & Logic Games. Also a <img src="https://assets.pokemon.com/static2/_ui/img/favicon.ico" height="16" width="16" align=center /> **Pokémon** trainer.
+* 🎮 Puzzle Games & Logic Games. Also a <img src="https://assets.pokemon.com/static2/_ui/img/favicon.ico" height="16" width="16" align=center /> **Pokémon** trainer.
 * 📫 Email me at: spaceskynet@outlook.com
 
-## 📊
+## 📈
 
 <div align="center">
 <table border="0">
@@ -38,6 +38,7 @@
       <img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white">
       <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/julia-875daf.svg?&style=for-the-badge&logo=julia&logoColor=white">
+      <img src="https://img.shields.io/badge/jinja2-9a1c10.svg?&style=for-the-badge&logo=jinja&logoColor=white">
       <img src="https://img.shields.io/badge/markdown-48ac98.svg?&style=for-the-badge&logo=markdown&logoColor=white">
       <img src="https://img.shields.io/badge/shell_script%20-5d87bf.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">
