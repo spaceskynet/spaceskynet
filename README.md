@@ -2,15 +2,15 @@
 
 <p align=center>
 
-  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=spaceskynet.spaceskynet" alt="visitors"></p> 
+  <img align="right" src="https://komarev.com/ghpvc/?username=spaceskynet&base=400" alt="visitors"></p> 
 
 ## ⚡️
 
 * 🏛️ Undergraduate student of BIT, majoring in Information and Computational Science.
-* 📖 Familiar with **Python**, learning **Julia** now. ~~Go and Rust are pending...~~
+* 📖 Familiar with **Python**, learning **Julia** now and ~~plainfully with **Rust**~~.
 * 💻 Used to be an OIer, basically a **CTFer** now.
 * 🌟 Personal Website: https://spaceskynet.top/
-* 🎶 Like listening to **music** and playing the rhythm game —— <img src="https://osu.ppy.sh/favicon-32x32.png" height="20" width="20" align=center />  [**osu!**](https://osu.ppy.sh/users/19543134), welcome **pink** friends~
+* 🎶 Like listening to **music** and playing the rhythm game —— <img src="https://osu.ppy.sh/images/favicon/favicon-32x32.png" height="20" width="20" align=center />  [**osu!**](https://osu.ppy.sh/users/19543134), welcome **pink** friends~
 * 🎮 Puzzle Games & Logic Games. Also a <img src="https://assets.pokemon.com/static2/_ui/img/favicon.ico" height="16" width="16" align=center /> **Pokémon** trainer.
 * 📫 Email me at: spaceskynet@outlook.com
 
