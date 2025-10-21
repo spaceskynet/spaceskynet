@@ -6,9 +6,10 @@
 
 ## ⚡️
 
-* 🏛️ Undergraduate student of BIT, majoring in Information and Computational Science.
+* 🌱 Postgraduate of **UCAS/IIE**, majoring in Cyber Security now.
+* 🏛️ Graduate of **BIT**, majoring in Information and Computational Science.
 * 📖 Familiar with **Python**, learning **Julia** now and ~~plainfully with **Rust**~~.
-* 💻 Used to be an OIer, basically a **CTFer** now.
+* 💻 Used to be an OIer, basically a **CTFer** in NeSE now.
 * 🌟 Personal Website: https://spaceskynet.top/
 * 🎶 Like listening to **music** and playing the rhythm game —— <img src="https://osu.ppy.sh/images/favicon/favicon-32x32.png" height="20" width="20" align=center />  [**osu!**](https://osu.ppy.sh/users/19543134), welcome **pink** friends~
 * 🎮 Puzzle Games & Logic Games. Also a <img src="https://assets.pokemon.com/static2/_ui/img/favicon.ico" height="16" width="16" align=center /> **Pokémon** trainer.
@@ -21,12 +22,12 @@
 <tr>
 <td>
 
-![info](https://github-readme-stats.vercel.app/api?username=spaceskynet&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=&bg_color=00000000)
+![info](https://github-readme-stats.vercel.app/api?username=spaceskynet&show_icons=true&hide_border=true&count_private=true&hide=prs&bg_color=00000000)
 
 </td>
 <td>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceskynet&theme=&layout=compact&hide_border=true&bg_color=00000000)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceskynet&layout=compact&hide_border=true&bg_color=00000000)
 
 </td>
 </table>
