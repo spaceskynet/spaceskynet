@@ -22,12 +22,12 @@
 <tr>
 <td>
 
-![info](https://github-readme-stats.vercel.app/api?username=spaceskynet&show_icons=true&hide_border=true&count_private=true&hide=prs&bg_color=00000000)
+![info](https://github-readme-stats-fast.vercel.app/api?username=spaceskynet&show_icons=true&hide_border=true&count_private=true&hide=prs&bg_color=00000000)
 
 </td>
 <td>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceskynet&layout=compact&hide_border=true&bg_color=00000000)
+![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spaceskynet&layout=compact&hide_border=true&bg_color=00000000)
 
 </td>
 </table>
